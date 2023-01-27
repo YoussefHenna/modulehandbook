@@ -1,5 +1,10 @@
 # README
 
+## Youssef Henna Bachelor Contribution to Module Handbook
+- Changes: https://github.com/YoussefHenna/modulehandbook/commit/3b6ed00e839219a4d60436d0338a1e013e4729f2
+- PR on main repository: https://github.com/modulehandbook/modulehandbook/pull/137
+
+
 ## tl;dr: Quick start with an existing dump
 (other options below)
 
